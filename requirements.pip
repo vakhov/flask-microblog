@@ -10,3 +10,4 @@ flask-wtf
 pytz==2013b
 flask-babel
 flup
+flask-migrate
